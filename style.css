@@ -68,7 +68,7 @@ h2 {
 }
 
 .habits input + label span {
-  font-weight: 200;
+  font-weight: bold;
   font-size: 0.75rem;
 }
 
