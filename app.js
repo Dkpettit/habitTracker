@@ -2,6 +2,13 @@ const addHabits = document.querySelector(".add-habit");
 const habitsList = document.querySelector(".habits");
 const habits = JSON.parse(localStorage.getItem("habits")) || [];
 
+this.onload = function ()
+{
+    if (navigator && navigator.serviceWorker)
+    {
+        navigator.serviceWorker.register('sw.js');
+    }
+}
 
 // add a habit
 function addHabit(e)
