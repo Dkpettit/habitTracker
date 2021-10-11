@@ -5,7 +5,7 @@
   "background_color": "#b621f3",
   "display": "standalone",
   "scope": "/habitTracker/",
-  "start_url": "/habitTracke/",
+  "start_url": "/habitTracker/",
 "icons": [
     {
         "src": "./img/maskable_icon.png",
