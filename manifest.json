@@ -1,7 +1,7 @@
 {
     "name": "My Habit Tracker",
   "short_name": "Habit Tracker",
-  "theme_color": "#e921f3",
+  "theme_color": "#de9ed0",
   "background_color": "#b621f3",
   "display": "standalone",
   "scope": "/habitTracker/",
